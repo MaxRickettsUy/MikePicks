@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035859332027",
+    "project_id": "mikepicks-f85c8",
+    "storage_bucket": "mikepicks-f85c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035859332027:android:cd8ef1216adfc5cc3c929e",
+        "android_client_info": {
+          "package_name": "com.BrianAvadikian.football_picks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035859332027-jneoor3qk9an7div5dsqqlivsbeh190t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoTkbQLEXx0lEYuPIDdnyIHG44G8qXvbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035859332027-jneoor3qk9an7div5dsqqlivsbeh190t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
